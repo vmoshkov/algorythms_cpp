@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1487966139 source:/home/administrator/workspace/algorythms/src/adjacencyList.cpp
+	"adjacencyList.h"
+
+1488840349 /home/administrator/workspace/algorythms/include/adjacencyList.h
+	<iostream>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+
+1488403267 source:/home/administrator/workspace/algorythms/main.cpp
+	<iostream>
+	"adjacencyList.h"
+	"vmHeap.h"
+	"dijkstrasAlgorythm.h"
+
+1488397136 source:/home/administrator/workspace/algorythms/src/vmHeap.cpp
+	"vmHeap.h"
+
+1488392107 /home/administrator/workspace/algorythms/include/vmHeap.h
+	<iostream>
+
+1488839425 source:/home/administrator/workspace/algorythms/src/dijkstrasAlgorythm.cpp
+	"dijkstrasAlgorythm.h"
+	<set>
+	<map>
+
+1488840394 /home/administrator/workspace/algorythms/include/dijkstrasAlgorythm.h
+	"adjacencyList.h"
+	<limits>
+
